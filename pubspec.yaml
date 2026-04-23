@@ -1,0 +1,40 @@
+name: food_waste_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  amplify_flutter: ^1.8.0
+  amplify_auth_cognito: ^1.8.0
+  amplify_api: ^1.8.0
+  amplify_storage_s3: ^1.8.0
+
+  image_picker: ^1.0.4
+  url_launcher: ^6.3.2
+
+  flutter_ringtone_player: ^4.0.0+4
+  vibration: ^3.1.8
+
+  # 🎉 Confetti animation
+  confetti: ^0.7.0
+
+  # 🔥 NEW: REPORT FEATURE
+  pdf: ^3.10.7
+  printing: ^5.12.0
+  excel: ^2.1.0
+  path_provider: ^2.1.2
+
+dev_dependencies:
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true

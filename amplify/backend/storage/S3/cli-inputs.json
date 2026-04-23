@@ -1,0 +1,13 @@
+{
+  "resourceName": "S3",
+  "policyUUID": "a755d308",
+  "bucketName": "foodwasteapp20",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "groupAccess": {}
+}

@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-foodwasteapp-dev-f960d-authRole",
+      "UnauthRoleArn": "arn:aws:iam::637442129837:role/amplify-foodwasteapp-dev-f960d-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::637442129837:role/amplify-foodwasteapp-dev-f960d-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-foodwasteapp-dev-f960d-deployment",
+      "UnauthRoleName": "amplify-foodwasteapp-dev-f960d-unauthRole",
+      "StackName": "amplify-foodwasteapp-dev-f960d",
+      "StackId": "arn:aws:cloudformation:ap-south-1:637442129837:stack/amplify-foodwasteapp-dev-f960d/9d97ac00-3dd4-11f1-ba80-0afa0bc398cb",
+      "AmplifyAppId": "d2r6tkjj8i7hx2"
+    },
+    "categories": {
+      "api": {
+        "foodwasteapp": {}
+      },
+      "auth": {
+        "foodwasteappe16a5fc8": {}
+      },
+      "storage": {
+        "S3": {}
+      }
+    }
+  }
+}
